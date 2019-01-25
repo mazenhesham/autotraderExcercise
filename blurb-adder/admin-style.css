@@ -1,0 +1,26 @@
+.blurbA-admin-wrapper{
+    width: 90%;
+    float:left;
+    margin: 2% auto;
+    padding: 2%;
+}
+.blurbA-admin-wrapper h1{
+	text-align:center;
+}
+.blurbA-admin-wrapper h3{
+	text-align:left;
+}
+.blurbA-admin-wrapper table{
+	width: 100%;
+	margin: 2% auto;
+	text-align:left;
+}
+
+.blurbA-admin-wrapper textarea{
+    width: 100%;
+    height: 100px;
+}
+
+.blurbA-admin-wrapper input.button-primary {
+    width: 100%;
+}
